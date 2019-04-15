@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c10b1c2-5b32-4f6d-89f4-9067b571f713" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/solvers/q_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/solvers/q_learning.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.5_0_0.5_0.001_0.9_optimal.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.2_Policy_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.2_Value_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.3_Policy_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.3_Value_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.4_Value_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.5_Policy_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.5_Value_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.6_Value_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.7_Policy_Last.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>metadata</find>
+      <find>delta</find>
+      <find>render</find>
+      <find>hole_reward</find>
+      <find>one_step_lookahead</find>
+      <find>print</find>
+      <find>plot_policies_on_map</find>
+      <find>vs</find>
+      <find>376862745098041</find>
+      <find>_epsilon</find>
+      <find>random</find>
+      <find>_make_epsilon_greedy_policy</find>
+      <find>_policy_function</find>
+      <find>{}</find>
+      <find>QLearningSolver</find>
+      <find>MAX_STEP_COUNT</find>
+      <find>inc</find>
+      <find>al</find>
+      <find>run_</find>
+      <find>run_policy_and_collect</find>
+      <find>run_policy</find>
+      <find>def step</find>
+      <find>_calculate_transition_prob</find>
+      <find>run_solver_and_collect</find>
+      <find>_min_episodes</find>
+      <find>convergence_check_fn</find>
+      <find>_policy_stable</find>
+      <find>_min_consecutive_sub_theta_episodes</find>
+      <find>True</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run_experiment.py" />
+        <option value="$PROJECT_DIR$/solvers/base.py" />
+        <option value="$PROJECT_DIR$/solvers/policy_iteration.py" />
+        <option value="$PROJECT_DIR$/environments/frozen_lake.py" />
+        <option value="$PROJECT_DIR$/experiments/q_learner.py" />
+        <option value="$PROJECT_DIR$/experiments/base.py" />
+        <option value="$PROJECT_DIR$/environments/cliff_walking.py" />
+        <option value="$PROJECT_DIR$/solvers/q_learning.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-35" />
+    <option name="y" value="148" />
+    <option name="width" value="1870" />
+    <option name="height" value="1051" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="environments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="Q" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="Q" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="solvers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/dl4cv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="--value" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_experiment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_experiment.py" />
+      <option name="PARAMETERS" value="--q --thread=-1 --verbose" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_experiment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c10b1c2-5b32-4f6d-89f4-9067b571f713" name="Default Changelist" comment="" />
+      <created>1554657057569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554657057569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="124" y="644" width="1870" height="1051" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26367083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32008368" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920928" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4997293" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002707" side_tool="true" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4997293" weight="0.32901832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24459673" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32008368" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39958158" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experiments/value_iteration.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solvers/value_iteration.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solvers/value_iteration.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solvers/base.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/environments/frozen_lake.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/environments/frozen_lake.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solvers/value_iteration.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solvers/q_learning.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experiments/value_iteration.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solvers/value_iteration.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.5_random_0.5_0.1_0.1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.5_random_0.5_0.1_0.1_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.5_random_0.5_0.1_0.7_episode.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.5_random_0.5_0.1_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.1_0.001_0.2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.1_0.001_0.2_episode.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.5_0.001_0.3.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.5_0.1_0.6_episode.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.5_0.1_0.7.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.5_0.1_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_0_0.3_0.001_0.5_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.1_0.0001_0.0_episode.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.1_0.0001_0.0_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.1_0.0001_0.2_episode.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.1_0.0001_0.3_episode.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.1_0.0001_0.5_episode.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.1_0.0001_0.7_episode.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.5_0.001_0.1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.5_0.1_0.7.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.9_random_0.5_0.1_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.1_0.1_0.0_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.1_0.1_0.1_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.1_0.1_0.5_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.1_0.1_0.7.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.1_0.1_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.3_0.1_0.7.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.3_0.1_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.5_0.001_0.5.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_0_0.5_0.001_0.3_episode.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.9_random_0.5_0.1_0.7_episode.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.9_random_0.5_0.1_0.7.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.9_random_0.5_0.1_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.5_0.01_0.7.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.5_0.01_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.1_0.1_0.1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/frozen_lake_0.1_random_0.1_0.1_0.1_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.5_0_0.5_0.001_0.8.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.5_0_0.5_0.001_0.8_episode.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.5_0_0.5_0.001_0.8_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.5_0_0.5_0.0001_0.0.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.5_0_0.5_0.001_0.7_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Q/cliff_walking_0.5_0_0.5_0.001_0.9_optimal.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.2_Policy_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.2_Value_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.3_Policy_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.3_Value_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.4_Value_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.5_Policy_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.5_Value_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.6_Value_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/Q/cliff_walking_0.5_0_0.5_0.001_0.7_Policy_Last.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
